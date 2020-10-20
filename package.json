@@ -44,10 +44,10 @@
   ],
   "license": "Apache-2.0",
   "main": "build/pdf.js",
-  "name": "pdfjs-dist",
+  "name": "pdfjs-dist-htjt",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mozilla/pdfjs-dist.git"
+    "url": "git+https://github.com/jjctencent/pdfjs-dist-htjt.git"
   },
   "version": "2.5.207"
 }
